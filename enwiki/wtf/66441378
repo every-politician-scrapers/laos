@@ -1,0 +1,224 @@
+{
+  "title": "Sonexay Siphandone",
+  "pageID": 66441378,
+  "categories": [
+    "Members of the 8th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 9th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 10th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 11th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 10th Politburo of the Lao People's Revolutionary Party",
+    "Members of the 11th Politburo of the Lao People's Revolutionary Party",
+    "Governors of Champasak",
+    "Government ministers of Laos",
+    "Lao People's Revolutionary Party politicians",
+    "Living people",
+    "1966 births",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sonexay Siphandone (ສອນ​ໄຊ ສີ​ພັນ​ດອນ; born 26 January 1966) is a Laotian politician and member of the Lao People's Revolutionary Party (LPRP).",
+              "links": [
+                {
+                  "text": "Laotian",
+                  "type": "internal",
+                  "page": "Laos"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lao People's Revolutionary Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sonexay Siphandone"
+                ]
+              }
+            },
+            {
+              "text": "He is the son of former LPRP Chairman Khamtai Siphandon and brother of Viengthong Siphandone.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Khamtai Siphandon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Viengthong Siphandone"
+                }
+              ]
+            },
+            {
+              "text": "He currently serves as Deputy Prime Minister of Laos."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the LPRP Central Committee at the 8th National Congress, and to the LPRP Politburo at the 10th National Congress.",
+              "links": [
+                {
+                  "text": "LPRP Central Committee",
+                  "type": "internal",
+                  "page": "Central Committee of the Lao People's Revolutionary Party"
+                },
+                {
+                  "text": "8th National Congress",
+                  "type": "internal",
+                  "page": "8th National Congress of the Lao People's Revolutionary Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "LPRP Politburo"
+                },
+                {
+                  "text": "10th National Congress",
+                  "type": "internal",
+                  "page": "10th National Congress of the Lao People's Revolutionary Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Laotian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "blp sources"
+        },
+        {
+          "year": "1966",
+          "month": "1",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "author": "Creak",
+          "year": "Sayalath",
+          "location": "2017",
+          "p": "182",
+          "template": "sfn"
+        },
+        {
+          "author": "Creak",
+          "year": "Sayalath",
+          "location": "2017",
+          "p": "182",
+          "template": "sfn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sonexay Siphandone"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Laos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Laos"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Thongloun Sisoulith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thongloun Sisoulith"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 April 2016"
+          },
+          "alongside": {
+            "text": "Bounthong Chitmany and Somdy Duangdy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bounthong Chitmany"
+              },
+              {
+                "type": "internal",
+                "page": "Somdy Duangdy"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 26, 1966"
+          },
+          "party": {
+            "text": "Lao People's Revolutionary Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lao People's Revolutionary Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Specific",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Books:",
+              "formatting": {
+                "italic": [
+                  "Books:"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "laos-politician-stub"
+        }
+      ],
+      "references": [
+        {
+          "author1": "Creak, S. & Sayalath, S.",
+          "year": "2017",
+          "title": "Regime Renewal in Laos: The Tenth Congress of the Lao People's Revolutionary Party",
+          "journal": "Southeast Asian Affairs",
+          "pages": "179–200",
+          "ref": "CITEREFCreakSayalath2017",
+          "template": "citation",
+          "type": "cite journal"
+        }
+      ]
+    }
+  ]
+}
