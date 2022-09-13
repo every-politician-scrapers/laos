@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Laos)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2007-07-03",
+    "P1365": {
+      "links": [
+        "Chansy Phosikham"
+      ],
+      "stated_as": "Chansy Phosikham"
+    },
+    "P582": "2011-06-15",
+    "P1366": {
+      "links": [
+        "Phouphet Khamphounvong"
+      ],
+      "stated_as": "Phouphet Khamphounvong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Planning and Investment (Laos)"
+      ],
+      "stated_as": "Minister of Planning and Investment"
+    },
+    "P580": "2012",
+    "P1365": {
+      "links": [
+        "Soulivong Daravong"
+      ],
+      "stated_as": "Soulivong Daravong"
+    },
+    "P582": "2016-04-20",
+    "P1366": {
+      "links": [
+        "Souphanh Keomisay"
+      ],
+      "stated_as": "Souphanh Keomisay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Laos"
+      ],
+      "stated_as": "Deputy Prime Minister of Laos"
+    },
+    "P580": "2016-04-20",
+    "P582": "2021-03-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Laos)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2016-04-20",
+    "P1365": {
+      "links": [
+        "Lien Thikeo"
+      ],
+      "stated_as": "Lien Thikeo"
+    },
+    "P582": "2021-03-22",
+    "P1366": {
+      "links": [
+        "Bounchom Oubonpaseuth"
+      ],
+      "stated_as": "Bounchom Oubonpaseuth"
+    }
+  }
+]

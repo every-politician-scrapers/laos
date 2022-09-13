@@ -1,0 +1,98 @@
+[
+  {
+    "office": {
+      "links": [
+        "Central Committee of the Lao People's Revolutionary Party",
+        "Organisation Commission of the Lao People's Revolutionary Party"
+      ],
+      "stated_as": "Head of the LPRP Central Committee Organisation Commission"
+    },
+    "P580": "2002",
+    "P1365": {
+      "links": [
+        "Thongsing Thammavong"
+      ],
+      "stated_as": "Thongsing Thammavong"
+    },
+    "P582": "2006"
+  },
+  {
+    "office": {
+      "links": [
+        "Central Committee of the Lao People's Revolutionary Party",
+        "Organisation Commission of the Lao People's Revolutionary Party"
+      ],
+      "stated_as": "Head of the LPRP Central Committee Organisation Commission"
+    },
+    "P580": "2006",
+    "P582": "2010",
+    "P1366": {
+      "links": [
+        "Chansy Phosikham"
+      ],
+      "stated_as": "Chansy Phosikham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Committee of the Lao People's Revolutionary Party"
+      ],
+      "stated_as": "Chairman of the LPRP Central Committee Inspection Commission"
+    },
+    "P580": "2011-03-21",
+    "P1365": {
+      "links": [
+        "Asang Laoly"
+      ],
+      "stated_as": "Asang Laoly"
+    },
+    "P582": "2016-01-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Central Committee of the Lao People's Revolutionary Party"
+      ],
+      "stated_as": "Chairman of the LPRP Central Committee Inspection Commission"
+    },
+    "P580": "2016-01-22",
+    "P582": "2021-01-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Khamphanh Phommathat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretariat of the Lao People's Revolutionary Party"
+      ],
+      "stated_as": "Standing Member of the LPRP Secretariat"
+    },
+    "P580": "2021-01-15",
+    "P1365": {
+      "links": [
+        "Phankham Viphavanh"
+      ],
+      "stated_as": "Phankham Viphavanh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Laos"
+      ],
+      "stated_as": "Vice President of Laos"
+    },
+    "P580": "2021-03-22",
+    "P1365": {
+      "links": [
+        "Phankham Viphavanh"
+      ],
+      "stated_as": "Phankham Viphavanh"
+    }
+  }
+]
