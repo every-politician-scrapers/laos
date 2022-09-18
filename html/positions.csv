@@ -1,8 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q904139,President of Laos,Q819,Q819,Q7925053,Q15272170,1975-12-02,,,,President of Laos
-Q7925053,Vice President of Laos,Q819,Q819,,,,,,,Vice President of Laos
-Q778651,Prime Minister of Laos,Q819,Q819,,,1945-09-15,,,,Prime Minister of Laos
 Q105320551,Deputy Prime Minister of Laos,,,,,,,,,Deputy Prime Minister of Laos
+Q30594170,Laotian Ambassador to China,,,,,,,,,List of ambassadors of Laos to China
+Q30592086,Laotian Ambassador to the United States,,,,,,,,,List of ambassadors of Laos to the United States
+Q21295987,Member of the National Assembly of Laos,Q819,Q819,,,,,,,
 Q113947527,Minister of Agriculture and Forestry of Laos,,Q819,,,,,,,
 Q113947578,Minister of Finance,,Q819,,,,,,,
 Q113470653,Minister of Foreign Affairs,,Q819,,,,,,,
@@ -12,4 +12,7 @@ Q113947582,Minister of Justice (Laos),,Q819,,,,,,,
 Q113947585,Minister of Natural Resources and Environment,,Q819,,,,,,,
 Q113947546,Minister of Public Security,,Q819,,,,,,,
 Q113947587,Minister of Science and Technology,,Q819,,,,,,,
+Q904139,President of Laos,Q819,Q819,Q7925053,Q15272170,1975-12-02,,,,President of Laos
 Q7241345,President of the National Assembly of Laos,Q819,Q819,,,,,,,President of the National Assembly of Laos
+Q778651,Prime Minister of Laos,Q819,Q819,,,1945-09-15,,,,Prime Minister of Laos
+Q7925053,Vice President of Laos,Q819,Q819,,,,,,,Vice President of Laos
