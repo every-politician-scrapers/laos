@@ -6,12 +6,13 @@
     "cabinet": {
       "id":     "Q106391126",
       "start":  "2021-03-22",
+      "end":    "2021-03-30",
+      "NOTES":  "source is not up to date, so pin until it gets updated",
       "parent": "Q113947504"
     },
     "reference": {
         "P4656": "https://en.wikipedia.org/wiki/9th_Government_of_Laos"
     },
-    "current_only": "true",
     "person_description": {
         "en": "politician in Laos"
     }
