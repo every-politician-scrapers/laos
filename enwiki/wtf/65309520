@@ -1,0 +1,190 @@
+{
+  "title": "Khampheng Saysompheng",
+  "pageID": 65309520,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Members of the 9th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 10th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 11th Central Committee of the Lao People's Revolutionary Party",
+    "Lao People's Revolutionary Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khampheng Saysompheng (ຄໍາ​ແພງ ໄຊ​ສົມ​ແພງ) is a Laotian politician who served as Minister of Labour and Social Welfare.",
+              "links": [
+                {
+                  "text": "Laotian",
+                  "type": "internal",
+                  "page": "People of Laos"
+                },
+                {
+                  "text": "Minister of Labour and Social Welfare",
+                  "type": "internal",
+                  "page": "Ministry of Labour and Social Welfare (Laos)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Khampheng Saysompheng"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the husband of Viengthong Siphandone.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viengthong Siphandone"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Laotian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "author": "Creak",
+          "year": "Sayalath",
+          "location": "2017",
+          "p": "182",
+          "template": "sfn"
+        }
+      ],
+      "references": [
+        {
+          "title": ":: KPL :: Lao News Agency",
+          "url": "http://kpl.gov.la/En/Page/Politic/PoliticSystem.aspx",
+          "access-date": "2020-09-14",
+          "website": "kpl.gov.la",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lao, People's Dem. Rep.",
+          "url": "https://www.un.org/sg/en/countries/lao-peoples-dem-rep",
+          "access-date": "2020-09-14",
+          "website": "United Nations Secretary-General",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The 10th anniversary of the entry into force of the Convention on Cluster Munitions (CCM) {{!}} UNDP in Lao PDR",
+          "url": "https://www.la.undp.org/content/lao_pdr/en/home/presscenter/pressreleases/2020/07/the-10th-anniversary-of-the-entry-into-force-of-the-convention-o.html",
+          "access-date": "2020-09-14",
+          "website": "UNDP",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Salichanh",
+          "first1": "Ketkeo",
+          "last2": "Strategies",
+          "first2": "Institute for Global Environmental",
+          "date": "2005",
+          "title": "Lao PDR",
+          "journal": "2004 Top News on Environment in Asia",
+          "url": "https://www.jstor.org/stable/resrep00852.14",
+          "pages": "36–38",
+          "jstor": "resrep00852.14",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "date": "2019-07-05",
+          "title": "U.S. Celebrates Independence Day With Lao Leaders",
+          "url": "https://la.usembassy.gov/u-s-celebrates-independence-day-with-lao-leaders/",
+          "access-date": "2020-09-14",
+          "website": "U.S. Embassy in Laos",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-27",
+          "title": "United States, Japan, and UNICEF Help Children in Residential Care Settings and Protection Shelters to Fight COVID-19 {{!}} Press Release {{!}} Laos {{!}} U.S. Agency for International Development",
+          "url": "https://www.usaid.gov/laos/press-releases/aug-26-2020-united-states-japan-and-unicef-help-children-residential-care",
+          "access-date": "2020-09-14",
+          "website": "www.usaid.gov",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "final list of participants - ILO",
+          "url": "http://www.oit.org/wcmsp5/groups/public/@ed_norm/@relconf/documents/meetingdocument/wcms_535900.pdf",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Specific",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Books:",
+              "formatting": {
+                "italic": [
+                  "Books:"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "laos-politician-stub"
+        }
+      ],
+      "references": [
+        {
+          "author1": "Creak, S. & Sayalath, S.",
+          "year": "2017",
+          "title": "Regime Renewal in Laos: The Tenth Congress of the Lao People's Revolutionary Party",
+          "journal": "Southeast Asian Affairs",
+          "pages": "179–200",
+          "ref": "CITEREFCreakSayalath2017",
+          "template": "citation",
+          "type": "cite journal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "title": "Kikeo Khaykhamphithoune",
+  "pageID": 20613905,
+  "categories": [
+    "Lao People's Revolutionary Party politicians",
+    "Living people",
+    "Members of the National Assembly of Laos",
+    "1957 births",
+    "Members of the 8th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 9th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 10th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 11th Central Committee of the Lao People's Revolutionary Party",
+    "Members of the 11th Politburo of the Lao People's Revolutionary Party",
+    "Members of the 10th Secretariat of the Lao People's Revolutionary Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kikeo Khaykhamphithoune (ກິແກ້ວ ໄຂຄຳພິທູນ; born 11 August 1957) is a Laotian politician.",
+              "formatting": {
+                "bold": [
+                  "Kikeo Khaykhamphithoune"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Lao People's Revolutionary Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lao People's Revolutionary Party"
+                }
+              ]
+            },
+            {
+              "text": "He is a representative of the National Assembly of Laos for the city of Vientiane (Constituency 1).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Laos"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vientiane"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Laotian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1957",
+          "month": "8",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kikeo Khaykhamphithoun"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "office": {
+            "text": "Head of the LPRP Central Committee Propaganda and Training Board",
+            "links": [
+              {
+                "text": "LPRP Central Committee",
+                "type": "internal",
+                "page": "Central Committee of the Lao People's Revolutionary Party"
+              },
+              {
+                "type": "internal",
+                "page": "Propaganda and Training Board"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "General Secretary"
+          },
+          "1namedata": {
+            "text": "Bounnhang Vorachith Choummaly Sayasone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bounnhang Vorachith"
+              },
+              {
+                "type": "internal",
+                "page": "Choummaly Sayasone"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end": {
+            "text": "2019",
+            "number": 2019
+          },
+          "predecessor": {
+            "text": "Cheuang Sombounkhanh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cheuang Sombounkhanh"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Khamphanh Phommathat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khamphanh Phommathat"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 11, 1957"
+          },
+          "birth_place": {
+            "text": "Houaphan Province, Kingdom of Laos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Houaphan Province"
+              },
+              {
+                "type": "internal",
+                "page": "Kingdom of Laos"
+              }
+            ]
+          },
+          "party": {
+            "text": "Lao People's Revolutionary Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lao People's Revolutionary Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.na.gov.la/index.php?option=com_content&task=view&id=16&Itemid=156",
+          "date": "May 16, 2007",
+          "title": "List of members by province",
+          "publisher": "The National Assembly of the Lao People's Democratic Republic",
+          "accessdate": "December 9, 2008",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20080830000118/http://www.na.gov.la/index.php?option=com_content&task=view&id=16&Itemid=156",
+          "archivedate": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "laos-politician-stub"
+        }
+      ]
+    }
+  ]
+}
