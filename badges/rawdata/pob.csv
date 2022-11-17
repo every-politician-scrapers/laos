@@ -1,0 +1,42 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q100146374,KhamPheng Saysompheng,,,,,,false,,,,
+Q104904363,Bounthong Chitmany,NormalRank,Q1320058,French Protectorate of Laos,false,false,true,false,false,true,true
+Q104914585,Sonexay Siphandone,,,,,,false,,,,
+Q104918214,Saysomphone Phomvihane,NormalRank,Q502997,Houaphanh Province,true,true,true,false,false,true,true
+Q106485453,Khemmani Pholsena,,,,,,false,,,,
+Q114451196,Baykham Khattiya,,,,,,false,,,,
+Q114451197,Bounchom Oubonpaseuth,,,,,,false,,,,
+Q114451199,Bounfeng Phoummalaysith,,,,,,false,,,,
+Q114451200,Bounkham Vorachit,,,,,,false,,,,
+Q114451201,Boviengkham Vongdara,,,,,,false,,,,
+Q114451202,Chansamone Chanyalath,,,,,,false,,,,
+Q114451204,Daovong Phonekeo,,,,,,false,,,,
+Q114451205,Khamchen Vongphosy,,,,,,false,,,,
+Q114451206,Phaivy Siboualipha,,,,,,false,,,,
+Q114451208,Phet Phomphiphak,,,,,,false,,,,
+Q114451210,Phouth Simmalavong,,,,,,false,,,,
+Q114451211,Sonexay Sithphaxay,,,,,,false,,,,
+Q114451212,Suanesavanh Vignaket,,,,,,false,,,,
+Q114451214,Thongchanh Manixay,,,,,,false,,,,
+Q114451216,Viengsavath Siphandone,,,,,,false,,,,
+Q114451217,Vilay Lakhamfong,,,,,,false,,,,
+Q114451810,Bounleua Sinxayvoravong,,,,,,false,,,,
+Q114451821,Malaythong Kommasith,,,,,,false,,,,
+Q114451969,Khamjane Vongphosy,,,,,,false,,,,
+Q114451981,Alounxay Sounnalath,,,,,,false,,,,
+Q16139501,Pany Yathotou,NormalRank,Q465947,Xiangkhouang Province,true,true,true,false,false,false,true
+Q25999464,Saleumxay Kommasith,NormalRank,Q819,Laos,true,false,true,false,false,false,true
+Q354684,Bouasone Bouphavanh,NormalRank,Q302656,Salavan Province,true,true,true,false,false,false,true
+Q360138,Khamtai Siphandon,NormalRank,Q1320058,French Protectorate of Laos,false,false,true,false,false,true,true
+Q470024,Bounnhang Vorachith,NormalRank,Q465940,Savannakhet Province,true,true,true,false,false,false,true
+Q4803512,Asang Laoly,NormalRank,Q334868,Phongsaly Province,true,true,true,false,false,true,true
+Q5299547,Douangchay Phichit,NormalRank,Q503004,Attapeu Province,true,true,true,false,true,false,false
+Q5938374,Somsavat Lengsavad,NormalRank,Q747881,Luang Prabang Province,true,true,true,false,false,false,true
+Q6406233,Kikeo Khaykhamphithoun,NormalRank,Q502997,Houaphanh Province,true,true,true,false,false,true,true
+Q7180477,Phankham Viphavan,NormalRank,Q1320058,French Protectorate of Laos,false,false,true,false,false,true,true
+Q7408584,Samane Vignaket,NormalRank,Q503004,Attapeu Province,true,true,true,false,false,false,true
+Q7559348,Somdy Douangdy,NormalRank,Q465940,Savannakhet Province,true,true,true,false,false,true,true
+Q986768,Sisavath Keobounphanh,NormalRank,Q502997,Houaphanh Province,true,true,true,false,false,false,true
+Q57444,Choummaly Sayasone,NormalRank,Q757905,Attapeu,true,true,true,false,false,false,true
+Q57826,Thongsing Thammavong,NormalRank,Q502997,Houaphanh Province,true,true,true,false,false,false,true
+Q58323,Thongloun Sisoulith,NormalRank,Q502997,Houaphanh Province,true,true,true,false,false,false,true
