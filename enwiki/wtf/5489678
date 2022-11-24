@@ -86,49 +86,6 @@
             "text": "Thongloun Sisoulith (2019-05-30).jpg"
           },
           "office": {
-            "text": "7th President of Laos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Laos"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Pany Yathotu Bounthong Chitmany",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pany Yathotu"
-              },
-              {
-                "type": "internal",
-                "page": "Bounthong Chitmany"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Phankham Viphavanh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phankham Viphavanh"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 March 2021"
-          },
-          "predecessor": {
-            "text": "Bounnhang Vorachith",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bounnhang Vorachith"
-              }
-            ]
-          },
-          "office1": {
             "text": "General Secretary of the Lao People's Revolutionary Party",
             "links": [
               {
@@ -137,7 +94,7 @@
               }
             ]
           },
-          "deputy1": {
+          "deputy": {
             "text": "Bounthong Chitmany (Standing Member)",
             "links": [
               {
@@ -151,8 +108,51 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start": {
             "text": "15 January 2021"
+          },
+          "predecessor": {
+            "text": "Bounnhang Vorachith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bounnhang Vorachith"
+              }
+            ]
+          },
+          "office1": {
+            "text": "7th President of Laos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Laos"
+              }
+            ]
+          },
+          "vicepresident1": {
+            "text": "Pany Yathotu Bounthong Chitmany",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pany Yathotu"
+              },
+              {
+                "type": "internal",
+                "page": "Bounthong Chitmany"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Phankham Viphavanh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Phankham Viphavanh"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 March 2021"
           },
           "predecessor1": {
             "text": "Bounnhang Vorachith",
