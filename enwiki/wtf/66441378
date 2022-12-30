@@ -9,6 +9,7 @@
     "Members of the 10th Politburo of the Lao People's Revolutionary Party",
     "Members of the 11th Politburo of the Lao People's Revolutionary Party",
     "Governors of Champasak",
+    "Deputy Prime Ministers of Laos",
     "Government ministers of Laos",
     "Lao People's Revolutionary Party politicians",
     "Living people",
@@ -55,7 +56,14 @@
               ]
             },
             {
-              "text": "He currently serves as Deputy Prime Minister of Laos."
+              "text": "He currently serves as Deputy Prime Minister.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Laos"
+                }
+              ]
             }
           ]
         },

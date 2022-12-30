@@ -18,6 +18,7 @@
     "Members of the 10th Secretariat of the Lao People's Revolutionary Party",
     "Members of the 11th Secretariat of the Lao People's Revolutionary Party",
     "Governors of Oudomxay",
+    "Deputy Prime Ministers of Laos",
     "Government ministers of Laos",
     "Lao People's Revolutionary Party politicians",
     "Place of birth missing (living people)",
@@ -89,9 +90,29 @@
                   "page": "LPRP Politburo"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Deputy Prime Minister from April 2016 to March 2021.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Laos"
+                }
+              ]
             },
             {
-              "text": "He is Vice President of Laos since 22 March 2021."
+              "text": "He was elected Vice President of Laos in March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Laos"
+                }
+              ]
             }
           ]
         }
@@ -417,6 +438,14 @@
           "website": "China Radio International",
           "archive-url": "https://web.archive.org/web/20171017181537/http://laos.cri.cn/741/2016/04/20/222s202249.htm",
           "archive-date": "2017-10-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "NA closes with state leaders elected, development targets approved",
+          "url": "https://www.vientianetimes.org.la/freeContent/FreeConten_NA_61.php",
+          "website": "www.vientianetimes.org.la",
+          "publisher": "Vientiane Times",
           "template": "citation",
           "type": "web"
         }

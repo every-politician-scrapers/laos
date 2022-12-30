@@ -22,6 +22,7 @@
     "Lao People's Revolutionary Party politicians",
     "Members of the National Assembly of Laos",
     "People from Houaphanh province",
+    "Deputy Prime Ministers of Laos",
     "Prime Ministers of Laos",
     "Foreign ministers of Laos",
     "Labor ministers of Laos",
@@ -434,6 +435,11 @@
             {
               "text": "He became Deputy Prime Minister and President of the State Planning Committee on 27 March 2001, and he was additionally appointed as Foreign Minister on 8 June 2006, replacing Somsavat Lengsavad.",
               "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Laos"
+                },
                 {
                   "type": "internal",
                   "page": "Somsavat Lengsavad"
