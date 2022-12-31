@@ -123,8 +123,20 @@
           "term_start": {
             "text": "22 March 2021"
           },
+          "term_end": {
+            "text": "30 December 2022"
+          },
           "predecessor": {
             "text": "Thongloun Sisoulith"
+          },
+          "successor": {
+            "text": "Sonexay Siphandone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sonexay Siphandone"
+              }
+            ]
           },
           "office1": {
             "text": "Vice President of Laos",

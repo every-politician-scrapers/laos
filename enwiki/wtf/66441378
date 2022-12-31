@@ -56,12 +56,12 @@
               ]
             },
             {
-              "text": "He currently serves as Deputy Prime Minister.",
+              "text": "On December 30, 2022, parliament approves Sonexay Siphandone as Prime Minister (149 of 151 votes).",
               "links": [
                 {
-                  "text": "Deputy Prime Minister",
+                  "text": "Prime Minister",
                   "type": "internal",
-                  "page": "Deputy Prime Minister of Laos"
+                  "page": "Prime Minister of Laos"
                 }
               ]
             }
@@ -70,7 +70,7 @@
         {
           "sentences": [
             {
-              "text": "He was elected to the LPRP Central Committee at the 8th National Congress, and to the LPRP Politburo at the 10th National Congress.",
+              "text": "He was elected to the LPRP Central Committee at the 8th National Congress in 2006, and to the LPRP Politburo at the 10th National Congress in 2016.",
               "links": [
                 {
                   "text": "LPRP Central Committee",
@@ -132,16 +132,19 @@
           "name": {
             "text": "Sonexay Siphandone"
           },
+          "image": {
+            "text": "Sonexay_Siphandone.jpg"
+          },
           "office": {
-            "text": "Deputy Prime Minister of Laos",
+            "text": "Prime Minister of Laos",
             "links": [
               {
                 "type": "internal",
-                "page": "Deputy Prime Minister of Laos"
+                "page": "Prime Minister of Laos"
               }
             ]
           },
-          "primeminister": {
+          "president": {
             "text": "Thongloun Sisoulith",
             "links": [
               {
@@ -151,10 +154,43 @@
             ]
           },
           "term_start": {
+            "text": "30 December 2022"
+          },
+          "predecessor": {
+            "text": "Phankham Viphavan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Phankham Viphavan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Laos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Laos"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Thongloun Sisoulith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thongloun Sisoulith"
+              }
+            ]
+          },
+          "term_start1": {
             "text": "20 April 2016"
           },
-          "alongside": {
-            "text": "Bounthong Chitmany and Somdy Duangdy",
+          "term_end1": {
+            "text": "30 December 2022"
+          },
+          "alongside1": {
+            "text": "Bounthong Chitmany and Somdy Douangdy (2016-2021) Kikeo Khaikhamphitun, Chansamon Chanyalath, Vilay Larkhamfong and Saleumxay Kommasith",
             "links": [
               {
                 "type": "internal",
@@ -162,7 +198,23 @@
               },
               {
                 "type": "internal",
-                "page": "Somdy Duangdy"
+                "page": "Somdy Douangdy"
+              },
+              {
+                "type": "internal",
+                "page": "Kikeo Khaikhamphitun"
+              },
+              {
+                "type": "internal",
+                "page": "Chansamon Chanyalath"
+              },
+              {
+                "type": "internal",
+                "page": "Vilay Larkhamfong"
+              },
+              {
+                "type": "internal",
+                "page": "Saleumxay Kommasith"
               }
             ]
           },
@@ -178,6 +230,16 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "title": "December 2022",
+          "url": "https://www.rulers.org/2022-12.html",
+          "website": "Rulers",
+          "access-date": "30 December 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

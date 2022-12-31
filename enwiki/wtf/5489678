@@ -144,11 +144,15 @@
             ]
           },
           "primeminister1": {
-            "text": "Phankham Viphavanh",
+            "text": "Phankham Viphavanh Sonexay Siphandone",
             "links": [
               {
                 "type": "internal",
                 "page": "Phankham Viphavanh"
+              },
+              {
+                "type": "internal",
+                "page": "Sonexay Siphandone"
               }
             ]
           },
