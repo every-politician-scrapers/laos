@@ -1,8 +1,12 @@
 {
   "name": "Sonexay Siphandone",
-  "office": "Deputy Prime Minister of Laos",
-  "term_start": "20 April 2016",
-  "alongside": "Bounthong Chitmany and Somdy Duangdy",
+  "office": "Prime Minister of Laos",
+  "term_start": "30 December 2022",
+  "predecessor": "Phankham Viphavan",
+  "office1": "Deputy Prime Minister of Laos",
+  "term_start1": "20 April 2016",
+  "term_end1": "30 December 2022",
+  "alongside1": "Bounthong Chitmany and Somdy Douangdy (2016-2021) Kikeo Khaikhamphitun, Chansamon Chanyalath, Vilay Larkhamfong and Saleumxay Kommasith",
   "birth_date": "January 26, 1966",
   "party": "Lao People's Revolutionary Party"
 }
