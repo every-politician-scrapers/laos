@@ -16,7 +16,8 @@
     "1951 births",
     "Vice presidents of Laos",
     "Education ministers",
-    "Prime Ministers of Laos"
+    "Prime Ministers of Laos",
+    "Deputy Prime Ministers of Laos"
   ],
   "sections": [
     {
@@ -26,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Phankham Viphavanh (ພັນຄຳ ວິພາວັນ; born 14 April 1951) is a Laotian politician, a member of the Politburo and the Executive Committee of the Lao People's Revolutionary Party.",
+              "text": "Phankham Viphavanh (ພັນຄຳ ວິພາວັນ; born 14 April 1951 ) is a Laotian politician, a member of the Politburo and the Executive Committee of the Lao People's Revolutionary Party.",
               "links": [
                 {
                   "text": "Laotian",
@@ -60,7 +61,7 @@
               }
             },
             {
-              "text": "He is also the Prime Minister of Laos, who was elected by the National Assembly of Laos in March 2021.",
+              "text": "He became the Prime Minister of Laos, who was elected by the National Assembly of Laos in March 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -73,7 +74,44 @@
               ]
             },
             {
-              "text": "Previously, he was Vice President of Laos, Minister of Education of Laos, and President of the Lao–Vietnam Friendship Association."
+              "text": "He retired in December 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was deputy minister in the prime minister's office from 2003 to 2005, then was elected to the eigth Party Central Committee in 2006, and became governor of Houaphanh province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Houaphanh province"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to politburo in 2011, and then held the position of Minister of Education and Sports."
+            },
+            {
+              "text": "He was also the president of the Lao–Vietnam Friendship Association."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, he became the Deputy Prime Minister and in April 2016, he was elected as Vice President of Laos.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Laos"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vice President of Laos"
+                }
+              ]
             }
           ]
         }
@@ -270,21 +308,13 @@
           "inline": {}
         },
         {
-          "url": "http://www.kpl.net.la/english/member%20of%20lao%20gov.htm",
-          "title": "Members of the Lao Government",
-          "publisher": "Lao News Agency",
-          "accessdate": "September 4, 2010",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20110603220642/http://www.kpl.net.la/english/member%20of%20lao%20gov.htm",
-          "archivedate": "June 3, 2011",
+          "title": "Lao Prime Minister retires, elects deputy prime minister to replace him",
+          "url": "https://vietnam.postsen.com/local/222562/Lao-Prime-Minister-retires-elects-deputy-prime-minister-to-replace-him.html",
+          "website": "Vietnam Posts English",
+          "language": "en-us",
+          "date": "30 December 2022",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     },

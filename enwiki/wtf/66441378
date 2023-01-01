@@ -56,7 +56,7 @@
               ]
             },
             {
-              "text": "On December 30, 2022, parliament approves Sonexay Siphandone as Prime Minister (149 of 151 votes).",
+              "text": "On December 30, 2022, parliament approved Sonexay Siphandone as Prime Minister (149 of 151 votes).",
               "links": [
                 {
                   "text": "Prime Minister",
@@ -69,6 +69,9 @@
         },
         {
           "sentences": [
+            {
+              "text": "Sonexay was born in 1966."
+            },
             {
               "text": "He was elected to the LPRP Central Committee at the 8th National Congress in 2006, and to the LPRP Politburo at the 10th National Congress in 2016.",
               "links": [
@@ -90,6 +93,16 @@
                   "text": "10th National Congress",
                   "type": "internal",
                   "page": "10th National Congress of the Lao People's Revolutionary Party"
+                }
+              ]
+            },
+            {
+              "text": "He was Deputy Prime Minister from 2016 to 2022.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Laos"
                 }
               ]
             }
@@ -238,6 +251,15 @@
           "url": "https://www.rulers.org/2022-12.html",
           "website": "Rulers",
           "access-date": "30 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lao Prime Minister retires, elects deputy prime minister to replace him",
+          "url": "https://vietnam.postsen.com/local/222562/Lao-Prime-Minister-retires-elects-deputy-prime-minister-to-replace-him.html",
+          "website": "Vietnam Posts English",
+          "language": "en-us",
+          "date": "30 December 2022",
           "template": "citation",
           "type": "web"
         }
