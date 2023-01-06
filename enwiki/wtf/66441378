@@ -146,7 +146,14 @@
             "text": "Sonexay Siphandone"
           },
           "image": {
-            "text": "Sonexay_Siphandone.jpg"
+            "text": "Sonexay Siphandone (cropped).jpg"
+          },
+          "image_size": {
+            "text": "200",
+            "number": 200
+          },
+          "caption": {
+            "text": "Siphandone in 2017"
           },
           "office": {
             "text": "Prime Minister of Laos",
